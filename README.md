@@ -1,5 +1,6 @@
 A one-liner phrase describing this project or app
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c7b0f7211a744002a4f006f43ba4e35d)](https://app.codacy.com/gh/BuildForSDG/finqual-backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/finqual-backend&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 ## About
