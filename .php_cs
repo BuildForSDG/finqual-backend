@@ -25,7 +25,7 @@ return PhpCsFixer\Config::create()
         'php_unit_method_casing' => ['case' => 'snake_case'],
         'yoda_style' => ['equal' => false, 'identical' => false, 'less_and_greater' => false],
     ])
-    ->setCacheFile(__DIR__.'/.php_cs.cache')
+    ->setCacheFile(__DIR__.'/.idea/.php_cs.cache')
     ->setFinder(PhpCsFixer\Finder::create()
         ->exclude('app/Console')
         ->exclude('app/Providers')
