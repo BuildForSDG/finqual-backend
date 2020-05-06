@@ -2,13 +2,17 @@
 
 use PHPUnit\Framework\TestCase;
 
+/**
+ * @internal
+ * @coversNothing
+ */
 class Test extends TestCase
 {
     /**
      * @test
      * @testdox
      */
-    public function sampleTestCase()
+    public function sample_test_case()
     {
         $this->assertIsBool(true);
     }
